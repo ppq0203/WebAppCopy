@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+selab.hanyang.ac.kr	TRUE	/	FALSE	1999999999	PHPSESSID	ov2c3m9mq7t8vp1cb874iu3i1g
+en.wikipedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	30-Sep-2019
+.wikipedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access-Global	30-Sep-2019
+.wikipedia.org	TRUE	/	FALSE	1999999999	GeoIP	KR:11:Seoul:37.60:126.98:v4
+
